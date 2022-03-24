@@ -18,5 +18,5 @@ public class NagasuMain{
 	  }else{
 		  System.out.println(yyyy + "年はうるう年ではありません");
 		}
-  }
+	}
 }
